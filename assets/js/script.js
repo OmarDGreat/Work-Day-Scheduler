@@ -1,8 +1,6 @@
 
-
-
-var currentDateAndTime = moment().format('MMMM Do YYYY, h:mm: a');
-
+//Display the current date and time in the header
+var currentDateAndTime = moment().format('dddd, MMMM Do');
 $('#currentDay').text(currentDateAndTime);
 
 
@@ -17,4 +15,3 @@ $('.saveBtn').on('click', function() {
         localStorage.setItem(time, text);
     
     });
-    
