@@ -1,5 +1,9 @@
 # Work Day Scheduler 
 
+link: https://omardgreat.github.io/Work-Day-Scheduler/
+
+![image](https://user-images.githubusercontent.com/89590731/197358702-997c808d-b7ea-4c76-9f98-354ffb005cb9.png)
+
 ## User Story
 - AS AN employee with a busy schedule
 - I WANT to add important events to a daily planner
